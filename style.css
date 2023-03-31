@@ -13,3 +13,13 @@ nav img{
 .btn:hover {
     background-color: var(darkblue)
 }
+
+.carouselExampleAutoplaying p{
+    font-size: 30
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
