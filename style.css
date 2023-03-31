@@ -1,3 +1,15 @@
+.navbar-custom {
+    background-color: #393939;
+}
+
+.navbar-custom>.active>a { 
+    background-color: white ; 
+}
+
+nav img{
+    padding-right: 10px;
+}
+
 .btn:hover {
     background-color: var(darkblue)
 }
